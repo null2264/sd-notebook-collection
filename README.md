@@ -1,6 +1,15 @@
 # **Cagliostro Colab UI**
-All-in-One, Customizable and Flexible AUTOMATIC1111's Stable Diffusion Web UI for Google Colab. <br>
- 
+This notebook is my personal fork of [Linaqruf's SD Notebook](https://github.com/Linaqruf/sd-notebook-collection).
+
+All-in-One, Customizable and Flexible AUTOMATIC1111's Stable Diffusion Web UI for Google Colab.
+
+## What's New?
+- Allow user to store SD WebUI config and styles in their Google Drive
+  - Split WebUI folder path from outputs folder path
+- Changed some default values to my personal default values
+
+# Original `README.md`
+
 ## What's New?
 
 ### v.3.0.0 (10/06/23)
